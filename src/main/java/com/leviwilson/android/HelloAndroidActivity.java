@@ -20,6 +20,7 @@ public class HelloAndroidActivity extends Activity {
         super.onCreate(savedInstanceState);
 		Log.i(TAG, "onCreate");
         setContentView(R.layout.main);
+        //ksdjbfjsbdvhjdsbv
     }
 
 }
